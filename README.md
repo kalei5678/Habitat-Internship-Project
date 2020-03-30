@@ -1,0 +1,2 @@
+# Habitat-Internship-Project
+I am creating this folder to practice making a repository for my data science class, and I am including some materials from an R project I worked on at my internship for the Mass Audubon Habitat Nature Center.
